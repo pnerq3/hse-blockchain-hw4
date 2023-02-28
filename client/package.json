@@ -1,0 +1,22 @@
+{
+  "name": "hw4-web3-client",
+  "version": "1.0.0",
+  "description": "An application for HW4 of HSE blockchain course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnerq3/hse-blockchain-hw4.git"
+  },
+  "author": "Vadim D.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pnerq3/hse-blockchain-hw4/issues"
+  },
+  "homepage": "https://github.com/pnerq3/hse-blockchain-hw4#readme",
+  "dependencies": {
+    "web3": "^1.8.2"
+  }
+}
