@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/pnerq3/hse-blockchain-hw4#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "web3": "^1.8.2"
   }
 }
